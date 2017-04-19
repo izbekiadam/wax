@@ -35,7 +35,7 @@ namespace ExpressionKit.Unwrap
     }
 
     // A dictionary of parameters to replace.
-    private Dictionary<ParameterExpression, Expression> Replacements;
+    private readonly Dictionary<ParameterExpression, Expression> Replacements;
 
     /// <summary>
     /// Unwraps calls to unwrappable methods
