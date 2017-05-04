@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wax", "Wax.csproj", "{CD78CB57-BF27-4E39-9F48-473CB4388922}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaxUnitTest", "WaxUnitTest\WaxUnitTest.csproj", "{40FF2CB9-2073-4795-B327-2DE0E1C76108}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp", "..\TestApp\TestApp.csproj", "{638A07C5-285D-47C1-BD89-2824E619AF16}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{40FF2CB9-2073-4795-B327-2DE0E1C76108}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40FF2CB9-2073-4795-B327-2DE0E1C76108}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40FF2CB9-2073-4795-B327-2DE0E1C76108}.Release|Any CPU.Build.0 = Release|Any CPU
+		{638A07C5-285D-47C1-BD89-2824E619AF16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{638A07C5-285D-47C1-BD89-2824E619AF16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{638A07C5-285D-47C1-BD89-2824E619AF16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{638A07C5-285D-47C1-BD89-2824E619AF16}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
