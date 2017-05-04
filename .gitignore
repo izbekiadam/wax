@@ -2,3 +2,8 @@
 .tup/*
 *.dll
 *.xml
+bin/
+obj/
+WaxUnitTest/bin/
+WaxUnitTest/obj/
+*.suo
