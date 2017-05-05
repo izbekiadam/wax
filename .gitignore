@@ -1,6 +1,7 @@
 .tup
 .tup/*
 *.dll
+!Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
 *.xml
 bin/
 obj/
